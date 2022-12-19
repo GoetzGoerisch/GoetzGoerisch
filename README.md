@@ -26,3 +26,7 @@ I'm actively contributing to the [OPC UA community](https://opcfoundation.org/ "
 ## OPC related awesome stuff
 
 [iswunistuttgart/awesome-opcua](https://github.com/iswunistuttgart/awesome-opcua)
+
+## Meet me
+
+You can find me in the fediverse https://chaos.social/@goetz
