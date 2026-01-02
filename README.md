@@ -19,15 +19,12 @@ I'm actively contributing to the [OPC UA community](https://opcfoundation.org/ "
 
 - [OPC UA for Machine Tools](https://opcfoundation.org/markets-collaboration/umati/)
 - [OPC UA for Additive Manufacturing](https://umati.org/industries_additive-manufacturing/)
-- [OPC UA for Machinery](https://vdma.org/viewer/-/v2article/render/1248676)
+- [OPC UA for Machinery](https://vdma.eu/viewer/-/v2article/render/1248676)
 - [OPC UA Harmonization Working Groups](https://opcfoundation.org/opcf-wg/)
   - [Information model best practices](https://opcfoundation.org/developer-tools/documents/view/312)
   - [Stacklight](https://opcfoundation.org/developer-tools/documents/view/199)
 
-## OPC related awesome stuff
+## OPC related stuff
 
-[iswunistuttgart/awesome-opcua](https://github.com/iswunistuttgart/awesome-opcua)
-
-## Meet me
-
-You can find me in the [fediverse](https://chaos.social/@goetz)
+- [iswunistuttgart/awesome-opcua](https://github.com/iswunistuttgart/awesome-opcua)
+- 💬 Ask me about OPC UA
